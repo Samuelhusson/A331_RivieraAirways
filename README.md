@@ -6,10 +6,10 @@ Projet de Methodologie de la production d'applications
 <summary>
 User Stories
 </summary>
-<p>
-Qui ?                                    | Quoi ?                                                | Pourquoi ?                | Scénarios de test | Code state | Test state
----------------------------------------- | ----------------------------------------------------- | ------------------------- | ----------------- | ---------- | ----------
-En tant que membre de l'équipe programme | Je veux pouvoir accéder aux caractéristiques d’un vol.|                           |                   | to do      |
+<div>
+Qui ?                                    | Quoi ?                                                | Pourquoi ?                | Scénarios de test | Code state | Test state 
+---------------------------------------- | ----------------------------------------------------- | ------------------------- | ----------------- | ---------- | ---------- 
+En tant que membre de l'équipe programme | Je veux pouvoir accéder aux caractéristiques d’un vol.|                           |                   | to do      |            
                                          | Je veux pouvoir programmer un vol                     |                           |                   | to do      |
                                          | Je veux voir la liste des avions                      |                           |                   | to do      | 
                                          | Je veux voir la liste des avions disponibles          | Afin de programmer un vol |                   | to do      |
@@ -18,5 +18,5 @@ En tant que membre de l'équipe programme | Je veux pouvoir accéder aux caract�
                                          | Je veux accéder à la liste des personnes disponibles  |                           |                   | to do      |
                                          |                                                       |                           |                   |            |
 En tant que membre d’équipage            | Je veux pouvoir consulter mes affectations            |                           |                   | to do      |
-</p>
+</div>
 </details>
